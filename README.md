@@ -25,8 +25,7 @@ This project processes and analyzes shipping log data (date, priority, cost, sta
 1. *Load data*: Paste your raw shipping log into the RawData sheet.
 2. *Run cleanup*: Use the “Data → Remove Duplicates” and TRIM functions.
 3. *Apply formatting*: Conditional formatting rules are pre‑set for cost > ₹5000 and priority = “High”.
-4. *Create PivotTable*: Drag fields to analyze by region, date, or state.
-5. *Add slicers*: Insert slicers for Region and Date to enable quick filtering.
+4. *Add slicers*: Insert slicers for Region and Date to enable quick filtering.
 
 ## Example
 - *High‑cost filter*: Shows all shipments > ₹5000.
